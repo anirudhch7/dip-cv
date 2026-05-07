@@ -14,7 +14,6 @@ This repository contains Jupyter notebooks that explore core concepts in Digital
    pip install numpy matplotlib opencv-python opencv-contrib-python scikit-image
    ```
 
-
 ## Usage
 
 1. Clone the repository:
@@ -27,6 +26,7 @@ This repository contains Jupyter notebooks that explore core concepts in Digital
 ## Data & Images
 Some cells expect local image files (for example, `lenna.png`). Place required images in the repository root or update the paths inside the notebooks.
 
+
 ## Who is this for?
 
 - Students and self-learners wanting hands-on experience with Digital Image Processing and Computer Vision projects.
@@ -38,9 +38,9 @@ Some cells expect local image files (for example, `lenna.png`). Place required i
 
 ---
 
+
 ## Author
 
 Created by **@anirudhch7**.
 
 *Contributions and feedback are welcome!*
-
