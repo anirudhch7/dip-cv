@@ -8,7 +8,6 @@ This repository contains Jupyter notebooks that explore core concepts in Digital
 - `Digital_Image_Processing.ipynb` — DIP fundamentals and exercises (e.g., color channel operations, basic image transforms).
 - `Computer_Vision.ipynb` — CV utilities and experiments using NumPy, OpenCV, and scikit-image.
 
-
 ## Setup
 1. Install Python 3.9+ and Jupyter.
 2. Install the suggested Python packages:
