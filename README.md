@@ -1,4 +1,4 @@
-### dip-cv
+# DIGITAL IMAGE PROCESSING-COMPUTER VISION
 
 ## Overview
 This repository contains Jupyter notebooks that explore core concepts in Digital Image Processing (DIP) and Computer Vision. The notebooks include hands-on examples using Python with common scientific and vision libraries.
